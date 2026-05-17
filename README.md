@@ -153,20 +153,6 @@ flowchart LR
 <!-- ====================== DASHBOARDS APAGADOS (PROGRESIVOS) ====================== -->
 ## 📈 Dashboards de actividad
 
-> 📊 Estos dashboards se **activarán y llenarán solos** cuando suba mi primer repositorio público. Por ahora van apagados — mejor un perfil limpio que números en cero.
-
-<!-- ⚡ DASHBOARDS APAGADOS — cuando subas tu primer repo, AVÍSAME en Claude y los descomento (quito los <!-- y --> que rodean este bloque). Una vez activos se actualizan solos para siempre, sin que toques nada.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-agapito-herrera&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=e6edf3&langs_count=8" alt="Lenguajes más usados"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauricio-agapito-herrera&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=EC4899&area=true&hide_border=true&custom_title=Mi+actividad+en+GitHub" alt="Gráfica de actividad"/>
-</p>
-
--->
-
 <!-- ====================== CIERRE ====================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=3"/>
 
