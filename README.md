@@ -72,7 +72,7 @@ Capacité a **+10,000 personas** en una organización y administré una **univer
 
 **📚 Diseño instruccional & e-learning**
 
-<p><img width="72%" src="./assets/stack_instruccional.png" alt="Articulate Storyline · Articulate Rise · Adobe Captivate · iSpring Suite"/></p>
+<p><img width="66%" src="./assets/stack_instruccional.png" alt="Articulate Storyline · Articulate Rise · Adobe Captivate · iSpring Suite"/></p>
 
 **💻 Desarrollo web (frontend)**
 
@@ -84,52 +84,19 @@ Capacité a **+10,000 personas** en una organización y administré una **univer
 
 **🤖 IA generativa — texto, código y agentes**
 
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Google_AI_Studio-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
-</p>
+<p><img width="62%" src="./assets/stack_texto.png" alt="ChatGPT · Claude · Claude Code · Codex · Google Gemini · Google AI Studio · GitHub Copilot"/></p>
 
 **🖼️ IA generativa — imagen**
 
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT_Image-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Image"/>
-  <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney"/>
-  <img src="https://img.shields.io/badge/Nano_Banana-F9AB00?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Nano Banana"/>
-  <img src="https://img.shields.io/badge/Leonardo_AI-5B21B6?style=for-the-badge&logoColor=white" alt="Leonardo AI"/>
-  <img src="https://img.shields.io/badge/Ideogram-000000?style=for-the-badge&logoColor=white" alt="Ideogram"/>
-  <img src="https://img.shields.io/badge/Flux-0B0B0B?style=for-the-badge&logoColor=white" alt="Flux"/>
-  <img src="https://img.shields.io/badge/Adobe_Firefly-FF3366?style=for-the-badge&logo=adobe&logoColor=white" alt="Firefly"/>
-  <img src="https://img.shields.io/badge/Freepik_IA-1273EB?style=for-the-badge&logo=freepik&logoColor=white" alt="Freepik"/>
-  <img src="https://img.shields.io/badge/Seedance-8B5CF6?style=for-the-badge&logoColor=white" alt="Seedance"/>
-</p>
+<p><img width="62%" src="./assets/stack_imagen.png" alt="ChatGPT Image · Midjourney · Nano Banana · Leonardo AI · Ideogram · Flux · Adobe Firefly · Freepik · Seedance"/></p>
 
-**🎬 IA generativa — video**
+**🎬 IA generativa — video y audio**
 
-<p>
-  <img src="https://img.shields.io/badge/Sora-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Sora"/>
-  <img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logoColor=white" alt="Runway"/>
-  <img src="https://img.shields.io/badge/Google_Veo-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Veo"/>
-  <img src="https://img.shields.io/badge/Kling-111111?style=for-the-badge&logoColor=white" alt="Kling"/>
-  <img src="https://img.shields.io/badge/Luma-0EA5B7?style=for-the-badge&logoColor=white" alt="Luma"/>
-  <img src="https://img.shields.io/badge/Hailuo-E11D48?style=for-the-badge&logoColor=white" alt="Hailuo"/>
-  <img src="https://img.shields.io/badge/Higgsfield-7C3AED?style=for-the-badge&logoColor=white" alt="Higgsfield"/>
-</p>
-
-**🔊 IA generativa — audio**
-
-<p>
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs"/>
-  <img src="https://img.shields.io/badge/Suno-000000?style=for-the-badge&logoColor=white" alt="Suno"/>
-</p>
+<p><img width="62%" src="./assets/stack_video.png" alt="Sora · Runway · Google Veo · Kling · Luma · Hailuo · Higgsfield · ElevenLabs · Suno"/></p>
 
 **🎨 Diseño & multimedia**
 
-<p><img width="70%" src="./assets/stack_adobe.png" alt="Adobe Photoshop · Illustrator · Premiere Pro · After Effects · Lightroom · CapCut"/></p>
+<p><img width="66%" src="./assets/stack_adobe.png" alt="Adobe Photoshop · Illustrator · Premiere Pro · After Effects · Lightroom · CapCut"/></p>
 
 **🏢 Microsoft 365 & Google**
 
@@ -137,8 +104,6 @@ Capacité a **+10,000 personas** en una organización y administré una **univer
   <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Microsoft 365"/>
   <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Platform"/>
   <img src="https://img.shields.io/badge/Google_Workspace-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Apps Script"/>
 </p>
 
 <!-- ====================== CÓMO TRABAJO HOY ====================== -->
