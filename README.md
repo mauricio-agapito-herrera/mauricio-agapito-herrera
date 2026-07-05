@@ -76,11 +76,7 @@ Capacité a **+10,000 personas** en una organización y administré una **univer
 
 **💻 Desarrollo web (frontend)**
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+<p><img width="66%" src="./assets/stack_desarrollo.png" alt="HTML5 · CSS3 · JavaScript"/></p>
 
 **🤖 IA generativa — texto, código y agentes**
 
@@ -100,11 +96,7 @@ Capacité a **+10,000 personas** en una organización y administré una **univer
 
 **🏢 Microsoft 365 & Google**
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Microsoft 365"/>
-  <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Platform"/>
-  <img src="https://img.shields.io/badge/Google_Workspace-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
-</p>
+<p><img width="66%" src="./assets/stack_ms365.png" alt="Microsoft 365 · Power Platform · Google Workspace"/></p>
 
 <!-- ====================== CÓMO TRABAJO HOY ====================== -->
 ## ⚡ Cómo trabajo hoy
