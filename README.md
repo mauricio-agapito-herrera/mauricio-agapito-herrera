@@ -72,12 +72,7 @@ Capacité a **+10,000 personas** en una organización y administré una **univer
 
 **📚 Diseño instruccional & e-learning**
 
-<p>
-  <img src="https://img.shields.io/badge/Articulate_Storyline-FF6B35?style=for-the-badge&logoColor=white" alt="Storyline"/>
-  <img src="https://img.shields.io/badge/Articulate_Rise-E64A19?style=for-the-badge&logoColor=white" alt="Rise"/>
-  <img src="https://img.shields.io/badge/Adobe_Captivate-FF3E00?style=for-the-badge&logo=adobe&logoColor=white" alt="Captivate"/>
-  <img src="https://img.shields.io/badge/iSpring-1E88E5?style=for-the-badge&logoColor=white" alt="iSpring"/>
-</p>
+<p><img width="72%" src="./assets/stack_instruccional.png" alt="Articulate Storyline · Articulate Rise · Adobe Captivate · iSpring Suite"/></p>
 
 **💻 Desarrollo web (frontend)**
 
@@ -134,14 +129,7 @@ Capacité a **+10,000 personas** en una organización y administré una **univer
 
 **🎨 Diseño & multimedia**
 
-<p>
-  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/Premiere_Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro"/>
-  <img src="https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects"/>
-  <img src="https://img.shields.io/badge/Lightroom-001E36?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF" alt="Lightroom"/>
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
-</p>
+<p><img width="70%" src="./assets/stack_adobe.png" alt="Adobe Photoshop · Illustrator · Premiere Pro · After Effects · Lightroom · CapCut"/></p>
 
 **🏢 Microsoft 365 & Google**
 
@@ -181,11 +169,7 @@ flowchart LR
 <!-- ====================== GRÁFICAS (SE LLENAN SOLAS) ====================== -->
 ## 📈 Mi actividad en GitHub
 
-<sub>Estas gráficas leen mi actividad real y se actualizan solas conforme subo cursos.</sub>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-agapito-herrera&layout=compact&langs_count=8&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&icon_color=06B6D4" alt="Lenguajes más usados"/>
-</p>
+<sub>Esta gráfica lee mi actividad real y se actualiza sola conforme subo cursos.</sub>
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mauricio-agapito-herrera&bg_color=0d1117&color=e6edf3&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&title_color=A855F7&hide_border=true" alt="Gráfica de actividad"/>
